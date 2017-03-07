@@ -1,0 +1,1 @@
+**This is the repo for the CodeWars. There are some many coding practices in this website. I make this repo for practicing this problems by using javascript.**
