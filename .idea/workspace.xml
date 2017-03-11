@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="666fd327-246c-49c6-8740-bd56958ae86f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/RGBConversion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/CheckingGroups.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,31 +21,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TriangleType.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/TriangleType.js">
+      <file leaf-file-name="CheckingGroups.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/CheckingGroups.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConvertCamel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/ConvertCamel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RGBConversion.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/RGBConversion.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="479">
+              <caret line="55" column="1" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="55" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -86,6 +66,7 @@
         <option value="$PROJECT_DIR$/js/TriangleType.js" />
         <option value="$PROJECT_DIR$/js/ConvertCamel.js" />
         <option value="$PROJECT_DIR$/js/RGBConversion.js" />
+        <option value="$PROJECT_DIR$/js/CheckingGroups.js" />
       </list>
     </option>
   </component>
@@ -96,7 +77,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="315" />
+    <option name="x" value="186" />
     <option name="y" value="23" />
     <option name="width" value="1094" />
     <option name="height" value="752" />
@@ -119,8 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -149,6 +128,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,10 +141,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
-  <component name="RunManager" selected="Node.js.RGBConversion.js">
-    <configuration default="false" name="CreditMask.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="CreditMask.js" working-dir="$PROJECT_DIR$/js">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.CheckingGroups.js">
     <configuration default="false" name="CountDuplicate.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="CountDuplicate.js" working-dir="$PROJECT_DIR$/js">
       <method />
     </configuration>
@@ -174,6 +152,9 @@
       <method />
     </configuration>
     <configuration default="false" name="RGBConversion.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="RGBConversion.js" working-dir="$PROJECT_DIR$/js">
+      <method />
+    </configuration>
+    <configuration default="false" name="CheckingGroups.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="CheckingGroups.js" working-dir="$PROJECT_DIR$/js">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -236,19 +217,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.CreditMask.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.CountDuplicate.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.FormatNames.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.ConvertCamel.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.RGBConversion.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.CountDuplicate.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.FormatNames.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.ConvertCamel.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.RGBConversion.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.CheckingGroups.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.RGBConversion.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.ConvertCamel.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.FormatNames.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.CountDuplicate.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.CreditMask.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.CheckingGroups.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.RGBConversion.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.ConvertCamel.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.FormatNames.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.CountDuplicate.js" />
       </list>
     </recent_temporary>
   </component>
@@ -265,22 +246,23 @@
       <workItem from="1488862239768" duration="3115000" />
       <workItem from="1488949128834" duration="3032000" />
       <workItem from="1489068572082" duration="897000" />
-      <workItem from="1489107054596" duration="1362000" />
+      <workItem from="1489107054596" duration="1736000" />
+      <workItem from="1489204532007" duration="1178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8406000" />
+    <option name="totallyTimeSpent" value="9958000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="315" y="23" width="1094" height="752" extended-state="0" />
+    <frame x="186" y="23" width="1094" height="752" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20316869" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287879" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287879" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287879" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -305,6 +287,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/TriangleType.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ConvertCamel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/RGBConversion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/TriangleType.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -442,24 +448,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/TriangleType.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/ConvertCamel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="238">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/RGBConversion.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="306">
+          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/CheckingGroups.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="55" column="1" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="55" selection-end-column="1" />
           <folding />
         </state>
       </provider>
